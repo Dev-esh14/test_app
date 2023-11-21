@@ -1,0 +1,7 @@
+    1  git --version
+    2  pwd
+    3  mkdir test_app
+    4  cd test_app
+    5  touch f1.txt f2.sql f3.py f4.txt
+    6  ls
+    7  history >> commands.txt
